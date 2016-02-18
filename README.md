@@ -12,13 +12,16 @@ A python project to annotate person name or phone number based on open informati
 
 ## Usage
 
-1. Download this repository
+Download this repository
 
-2. Install package
+Install package
+
 ```
     sudo python setup.py install
 ```
-3. Open terminal and use command to run this program
+
+Open terminal and use command to run this program
+
 ```
     Usage:
         digoie tcp <host> <port> [--timeout=<seconds>]
@@ -36,7 +39,8 @@ A python project to annotate person name or phone number based on open informati
         --baud=<n>  Baudrate [default: 9600]
         --mla=<name>  machine learning algorithms
 ```
-4. Have a look for the generated dataset and report at your home folder, named dig_openie
+
+Have a look for the generated dataset and report at your home folder, named dig_openie
 
 
 
