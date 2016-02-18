@@ -3,6 +3,7 @@ backup/
 build/
 digoie.egg-info/
 dist/
+tests/
 *.pyc
 *.ml
 *.json
