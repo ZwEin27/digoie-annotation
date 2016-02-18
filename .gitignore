@@ -1,0 +1,16 @@
+assignments/
+backup/
+build/
+digoie.egg-info/
+dist/
+*.pyc
+*.ml
+*.json
+*.output
+*.raw
+*.npy
+*.pkl
+test.*
+*.txt
+
+
